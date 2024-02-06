@@ -92,7 +92,7 @@ python manage.py runserver
 `GET search/history/`
 
 ### Response
-
+```json
 [
   {
     "id": 1,
@@ -119,3 +119,4 @@ python manage.py runserver
     "created_at": "2024-02-05"
   }
 ]
+```
