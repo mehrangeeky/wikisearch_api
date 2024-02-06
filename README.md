@@ -98,7 +98,7 @@ python manage.py runserver
     "id": 1,
     "user": "john_doe",
     "article": "Python (programming language)",
-    "word_count": 5,
+    "word_count": 3,
     "word_frequency": {
       "Python": 10,
       "Django": 8,
@@ -110,7 +110,7 @@ python manage.py runserver
     "id": 2,
     "user": "jane_smith",
     "article": "Machine Learning",
-    "word_count": 7,
+    "word_count": 3,
     "word_frequency": {
       "Machine": 12,
       "Learning": 10,
