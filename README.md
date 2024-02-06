@@ -105,7 +105,6 @@ wherein encoded_data = base64 encoded version of **username:password**
 [
   {
     "id": 1,
-    "user": "john_doe",
     "article": "Python (programming language)",
     "word_count": 3,
     "word_frequency": {
@@ -117,7 +116,6 @@ wherein encoded_data = base64 encoded version of **username:password**
   },
   {
     "id": 2,
-    "user": "jane_smith",
     "article": "Machine Learning",
     "word_count": 3,
     "word_frequency": {
