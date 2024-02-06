@@ -70,8 +70,10 @@ python manage.py runserver
   "title": "Python (programming language)",
   "num_words": 5
 }
+```
 
 ### Response
+
 {
   "most_common_words": {
     "Python": 10,
@@ -90,6 +92,7 @@ python manage.py runserver
 `GET search/history/`
 
 ### Response
+
 [
   {
     "id": 1,
