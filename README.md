@@ -73,7 +73,7 @@ python manage.py runserver
 ```
 
 ### Response
-
+```json
 {
   "most_common_words": {
     "Python": 10,
@@ -83,7 +83,7 @@ python manage.py runserver
     "Programming": 2
   }
 }
-
+```
 
 ## Search History Endpoint
 
