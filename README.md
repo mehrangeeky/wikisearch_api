@@ -52,6 +52,15 @@ python manage.py runserver
 
 # Endpoints
 
+### Authentication
+#### Basic Authentication
+If Postman is being used, it should be pretty straightforward to 
+select Auth as Basic auth and authenticate using username and password.
+If not using postman, include the following header in request headers:
+ 
+{"Authorization": Basic encoded_data},
+wherein encoded_data = base64 encoded version of **username:password**
+
 ## Word Frequency Endpoint
 
 ### URL
