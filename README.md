@@ -34,7 +34,7 @@ python manage.py makemigrations
 
 python manage.py migrate
 
-### Step 7: Start the Server
+### Step 6: Start the Server
 python manage.py runserver
 
 ## Usage
