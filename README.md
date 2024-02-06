@@ -7,7 +7,7 @@
 
 Before you begin, ensure you have met the following requirements:
 
-- Python (version 10)
+- Python (version 3.10)
 
 ### Step 1: Clone the Repository
 git clone https://github.com/mehrangeeky/wikisearch_api.git
